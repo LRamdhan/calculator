@@ -1,2 +1,2 @@
-# calculator
-calculator for simple computation
+# Calculator
+Calculator for simple computations.
